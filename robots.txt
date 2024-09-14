@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://feupente.github.io/sitemap.html.gz
+Sitemap: https://feupente.github.io/app/sitemap.html.gz
+Sitemap: https://feupente.github.io/assets/sitemap.html.gz
+Sitemap: https://feupente.github.io/css/sitemap.html.gz
+Sitemap: https://feupente.github.io/includes/sitemap.html.gz
+Sitemap: https://feupente.github.io/item/sitemap.html.gz
+Sitemap: https://feupente.github.io/src/sitemap.html.gz
